@@ -1,0 +1,19 @@
+Don't forget to lock the door
+my favorite one is walking to school
+doing anything is better than doing nothing
+he admitted having driven the car without insurance
+our aim is to increase sales in japan
+to yield to your emotion is dangerous
+studying in the library is comfortable
+to make coffee is fun
+i like to play the piano
+becoming a singer is very difficult
+one of my aim was losing weight
+The man whom I met in the building that was located in northern Seoul
+So far, our chunk structures have been relatively flat.
+Trees consist of tagged tokens, optionally grouped under a chunk node such as NP.
+However, it is possible to build chunk structures of arbitrary depth, simply by creating a multi-stage chunk grammar containing recursive rules.
+4.1 has patterns for noun phrases, prepositional phrases, verb phrases, and sentences.
+This is a four-stage chunk grammar, and can be used to create structures having a depth of at most four.
+Although we will focus on syntactic trees, trees can be used to encode any homogeneous hierarchical structure that spans a sequence of linguistic forms
+The man whom I met in the building that was located in northern Seoul.
